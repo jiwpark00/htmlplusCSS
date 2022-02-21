@@ -1,2 +1,2 @@
 # htmlplusCSS
-html and css work
+HTML and CSS work across different courses/books
